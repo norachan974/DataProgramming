@@ -7,5 +7,5 @@ This repository covers some Python programming projects in data-related applicat
 - A/B test functionality using HTML templating and query strings
 2. Web Crawler
 - Selenium package
-- Object-Oriented Programming. Searcher base class with GraphSearcher, MatrixSearcher, FileSearcher, and WebSearcher Derived classes
+- Object-Oriented Programming and Inheritance. The searcher base class is GraphSearcher, with MatrixSearcher, FileSearcher, and WebSearcher Derived classes
 - Breadth First Search (BFS) algorithm
